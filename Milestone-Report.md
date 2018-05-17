@@ -1,3 +1,4 @@
+![alt text](https://startupbeat.com/wp-content/uploads/2015/12/springboard-logo-secondary-RGB.jpg "Logo Title Text 1")
 # Data Science Immersive: Capstone Project 1 Proposal
 ### Prepared By Benjamin Olsen
 
