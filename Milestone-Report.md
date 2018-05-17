@@ -65,12 +65,12 @@ The subjects were asked to perform repeatedly the following six movements, which
 * Do the results generalize across populations?
 
 ## What Are Your Deliverables? 
--Original raw dataset .
--A wrangled dataset for each decomposition of signals and categorical variables.
-  -Corrected EMG signals.
-  -Extracted Amplitude over adjacent windows.
-  -Extracted Amplitude over overlapping windows.
-  -Extracted EMG signal Envelope.
--Codebase for data wranngling, exploratory analysis, and statistical inference. 
--Textual analysis of the data, and discussion of the results. 
--Slide deck summarizing findings.
+* Original raw dataset .
+* A wrangled dataset for each decomposition of signals and categorical variables.
+  * Corrected EMG signals.
+  * Extracted Amplitude over adjacent windows.
+  * Extracted Amplitude over overlapping windows.
+  * Extracted EMG signal Envelope.
+* Codebase for data wranngling, exploratory analysis, and statistical inference. 
+* Textual analysis of the data, and discussion of the results. 
+* Slide deck summarizing findings.
