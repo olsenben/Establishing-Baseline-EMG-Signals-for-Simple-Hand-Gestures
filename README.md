@@ -1,4 +1,4 @@
-# Data Science Immersive: Capstone Project 1 Proposal
+# Data Science Immersive: Capstone Project 2
 ![alt text](https://startupbeat.com/wp-content/uploads/2015/12/springboard-logo-secondary-RGB.jpg "Logo Title Text 1")
 # Exploring the Possibility of Establishing Baseline EMG Signals for Simple Hand Guestures
 ### Prepared By Benjamin Olsen
